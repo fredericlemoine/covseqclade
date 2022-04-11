@@ -1,7 +1,7 @@
 // SARS-CoV-2 reference genome
-params.reference='https://raw.githubusercontent.com/nextstrain/nextclade_data/master/data/datasets/sars-cov-2/references/MN908947/versions/2022-03-31T12%3A00%3A00Z/files/reference.fasta'
+params.reference='https://raw.githubusercontent.com/nextstrain/nextclade_data/master/data/datasets/sars-cov-2/references/MN908947/versions/2022-04-08T12%3A00%3A00Z/files/reference.fasta'
 // Nextstrain Clade definition
-params.virusprop='https://raw.githubusercontent.com/nextstrain/nextclade_data/master/data/datasets/sars-cov-2/references/MN908947/versions/2022-03-31T12%3A00%3A00Z/files/virus_properties.json'
+params.virusprop='https://raw.githubusercontent.com/nextstrain/nextclade_data/master/data/datasets/sars-cov-2/references/MN908947/versions/2022-04-08T12%3A00%3A00Z/files/virus_properties.json'
 // Result folder
 params.results="results"
 // FastQ directory
