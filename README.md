@@ -53,6 +53,16 @@ If clade1 or clade2 = -1, then the coverage on all clades are displayed. Otherwi
 
 - Co-infection visualized with clade1=-1 and clade2=-1
 
+![Example of Co-infection](imgs/sample1_coinfection.svg)
+
+- Co-infection visualized with clade1=21J and clade2=21K
+
+![Example of Co-infection](imgs/sample1_coinfection_pair.svg)
 
 - Recombination visualized with clade1=-1 and clade2=-1
 
+![Example of recombinant](imgs/sample2_recombination.svg)
+
+- Recombination visualized with clade1=21J and clade2=21K
+
+![Example of recombinant](imgs/sample2_recombination_pair.svg)
