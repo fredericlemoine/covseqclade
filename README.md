@@ -9,7 +9,7 @@ For each sample, it is thus easy to visually check:
 
 1) The probable virus clade
 2) Cases of co-infections with several clades
-3) Cases of potential recombination between several clades
+3) Cases of potential recombination between clades
 
 
 ## Installation
